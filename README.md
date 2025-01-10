@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains the materials and data supporting our systematic literature review (SLR) on Online Continual Learning (OCL). The study provides a comprehensive analysis of approaches, challenges, benchmarks, and future directions in the field.
+Access the full paper directly: [arXiv link](https://arxiv.org/abs/2501.04897)
 
 ---
 
@@ -73,21 +74,6 @@ If you use or reference this work, please cite us using the following BibTeX ent
       url={https://arxiv.org/abs/2501.04897}, 
 }
 ```
-
----
-
-## Authors
-This work was conducted by:
-
-- **Seyed Amir Bidaki**
-- **Amir Mohammadkhah**
-- **Kiyan Rezaee**
-- **Faeze Hassani**
-- **Sadegh Eskandari**
-- **Maziar Salahi**
-- **Mohammad M. Ghassemi**
-
----
 
 ## Acknowledgments
 We appreciate all the researchers who contributed to the field of Online Continual Learning and inspired this systematic literature review. Special thanks to our collaborators for their support in making this work possible.
